@@ -33,7 +33,7 @@ Latest commit f1c0f5c on 15 Jun 2020
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
+# dist
 doc
 
 # Logs
